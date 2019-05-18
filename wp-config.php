@@ -1,5 +1,12 @@
 <?php
+/** Enable W3 Total Cache */
+define('WP_CACHE', true); // Added by W3 Total Cache
+
 /**
+ * Username: administrator
+ * Password: $#Allh7u12bIvs2tlJ
+ * Email: cafe@pretend.com.au.tk
+ * 
  * The base configuration for WordPress
  *
  * The wp-config.php creation script uses this file during the
@@ -44,16 +51,18 @@ define( 'DB_COLLATE', '' );
  * You can generate these using the {@link https://api.wordpress.org/secret-key/1.1/salt/ WordPress.org secret-key service}
  * You can change these at any point in time to invalidate all existing cookies. This will force all users to have to log in again.
  *
+ * SHA-256 of Mariya Takeuchi - Plastic Love
+ * 
  * @since 2.6.0
  */
-define( 'AUTH_KEY',         'put your unique phrase here' );
-define( 'SECURE_AUTH_KEY',  'put your unique phrase here' );
-define( 'LOGGED_IN_KEY',    'put your unique phrase here' );
-define( 'NONCE_KEY',        'put your unique phrase here' );
-define( 'AUTH_SALT',        'put your unique phrase here' );
-define( 'SECURE_AUTH_SALT', 'put your unique phrase here' );
-define( 'LOGGED_IN_SALT',   'put your unique phrase here' );
-define( 'NONCE_SALT',       'put your unique phrase here' );
+define( 'AUTH_KEY',         'CDDF2D128A78605121BB5623C26CEA4A8BEEE95710701FE45315D145A7D7C399' );
+define( 'SECURE_AUTH_KEY',  'CDDF2D128A78605121BB5623C26CEA4A8BEEE95710701FE45315D145A7D7C399' );
+define( 'LOGGED_IN_KEY',    'CDDF2D128A78605121BB5623C26CEA4A8BEEE95710701FE45315D145A7D7C399' );
+define( 'NONCE_KEY',        'CDDF2D128A78605121BB5623C26CEA4A8BEEE95710701FE45315D145A7D7C399' );
+define( 'AUTH_SALT',        'CDDF2D128A78605121BB5623C26CEA4A8BEEE95710701FE45315D145A7D7C399' );
+define( 'SECURE_AUTH_SALT', 'CDDF2D128A78605121BB5623C26CEA4A8BEEE95710701FE45315D145A7D7C399' );
+define( 'LOGGED_IN_SALT',   'CDDF2D128A78605121BB5623C26CEA4A8BEEE95710701FE45315D145A7D7C399' );
+define( 'NONCE_SALT',       'CDDF2D128A78605121BB5623C26CEA4A8BEEE95710701FE45315D145A7D7C399' );
 
 /**#@-*/
 

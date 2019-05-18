@@ -1,0 +1,1 @@
+ö$à\<?php exit; ?>a:1:{s:7:"content";s:175:"O:8:"stdClass":4:{s:12:"last_checked";i:1558193006;s:7:"checked";a:2:{s:6:"sydney";s:4:"1.55";s:14:"twentynineteen";s:3:"1.4";}s:8:"response";a:0:{}s:12:"translations";a:0:{}}";}
